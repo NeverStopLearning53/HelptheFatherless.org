@@ -1,0 +1,16 @@
+header {
+	background-color: red;
+	flex: 0 0 10vh;	
+}
+
+footer {
+	background-color: blue;
+	flex: 0 0 10vh;
+}
+
+aside {
+	flex: 0 0 10vw;
+	backgroud-color: green;
+}
+
+
